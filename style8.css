@@ -1,0 +1,201 @@
+body{
+    margin: 0;
+}
+.beckground{
+    background-size: cover;
+}
+.Div1{  
+    width: 100%;
+    height: 12vh;
+    background-color: #3d3d3d;
+}
+.logo{
+    padding: 1% 13.2%;
+}
+.textlogo{
+    margin: -5.2% 18%;
+    font-size: 21px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.textlogo2{
+    font-size: 15px;
+    margin: 6% 18%;
+    color: white;
+    opacity: 60%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Div3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: -9% 45%;
+    color: white;
+    width: 350px;
+}
+.hasce{
+    opacity: 60%;
+    font-size: 17px;
+}
+
+.hamar{
+    color: black;
+    margin-left: 50%;
+}
+.Div4{
+    margin-top: 5.6%;
+    margin-left: 68%;
+    width: 400px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    position: absolute;
+}
+.hamar{
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+}
+.jamer{
+    margin-left: 22vh;
+    color: white;
+    opacity: 60%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+}
+.telegram{
+    margin-left: 45vh;
+    margin-top: -21%;
+    width: 32px;
+    height: 32px;
+    border: 2px solid lightskyblue;
+    border-radius: 20px ;
+    background-color: white;
+    
+}
+.whatcaap{
+    margin-left: 44vh;
+    margin-top: -21%;
+    width: 18px;
+    height: 18px;
+    border: 3px solid green;
+    border-radius: 20px ;
+    padding: 6px 6px;
+    background-color: green;
+    
+}
+.Div5{
+    width: 100%;
+    height: 5.5vh;
+    background-color: #ffbb00;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.menu1:hover{
+    background-color: #3d3d3d;
+}
+
+.menu1{
+    font-size: 13px;
+    width: 9.1%;
+    height: 52px;
+    border: 0.1px solid rgba(133, 133, 133, 0.178);
+    background-color: #ffbb00;
+}
+
+.menu2{
+    background-color: #3d3d3d;
+    margin-left: 43.5%;
+    width: 12%;
+    font-size: 18px;
+    color: white;
+    border: 1px solid #5353535d;
+    font-weight: bold;
+}
+.menu2:hover{
+    background-color: #ffbb00;
+    border: 1px solid #ffbb00;
+}
+.li{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+.li2{
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+.sevblok{
+    position: absolute;
+    width: 60%;
+    height: 65vh;
+    background-color: rgb(44, 44, 44);
+}
+.sevblok{
+    padding: 5% 20%;
+}
+.seriblok2{
+    width: 950px;
+    height: 600px;
+    background-color: #3d3d3d;
+}
+.text10{
+    color: white;
+    padding-left: 55%;
+    margin-top: -57%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.zayavka2{
+    padding-left: 45%;
+    margin-top: -50%;
+}
+.form__title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.imya{
+    width: 60%;
+    height: 50px;
+    margin-top: 8%;
+    font-size: 20px;
+    background-color: #202020;
+    border: 1px solid #686868;
+}
+.text11{
+    margin-bottom: -3%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px
+}
+.telefon{
+    width: 60%;
+    height: 50px;
+    margin-top: 20%;
+    font-size: 20px;
+    background-color: #202020;
+    border: 1px solid #686868;
+}
+
+.text12{
+    margin-bottom: -14%;
+    font-size: 18px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.zayavka3{
+    font-weight: bold;
+    font-size: 20px;
+    border: 2px solid #ffbb00;
+    width: 200px;
+    height: 50px;
+    background-color: #ffbb00;
+}
+.knopkazayavka2{
+    padding-top: 15%;
+}
